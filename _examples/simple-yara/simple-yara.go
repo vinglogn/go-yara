@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/hillu/go-yara/v4"
+	"github.com/vinglogn/go-yara"
 
 	"bytes"
 	"flag"
